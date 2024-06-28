@@ -8,12 +8,12 @@ This is an interactive implementation of the classic Missionaries and Cannibals 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/missionaries-cannibals-game.git
+    git clone [https://github.com/Sahilcan-glitch/Classic_ai_game.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd missionaries-cannibals-game
+    cd mcapp
     ```
 
 3. Install the required packages:
@@ -23,7 +23,7 @@ This is an interactive implementation of the classic Missionaries and Cannibals 
 
 4. Run the application:
     ```bash
-    streamlit run missionaries_cannibals.py
+    streamlit run mcapp.py
     ```
 
 ## Game Rules
