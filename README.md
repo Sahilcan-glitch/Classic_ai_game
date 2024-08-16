@@ -25,6 +25,10 @@ This is an interactive implementation of the classic Missionaries and Cannibals 
     ```bash
     streamlit run mcapp.py
     ```
+5. Run the application on cloud at:
+    ```bash
+    https://classicaigame.streamlit.app/
+    ```
 
 ## Game Rules
 
